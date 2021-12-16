@@ -1,6 +1,6 @@
 {
   "contributors": ["cw00dw0rd"],
-  "message": "Fresh avocado detected! Welome and thank you for your contribution! My avocado-loving overlords have decreed a signed CLA is required for PRs. Please see the [CONTRIBUTION.md]('https://github.com/arangodb/arangodb/blob/devel/CONTRIBUTING.md') file to learn more.",
+  "message": "Fresh avocado detected! Welome and thank you for your contribution! My avocado-loving overlords have decreed a signed CLA is required for PRs. Please see the  file to learn more.",
   "label": "This avocado has already signed the CLA! Thanks again for your contribution!",
   "recheckComment": "The avocado-loving overlords have requested a I re-evaluate this PR."
 }

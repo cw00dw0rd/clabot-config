@@ -1,6 +1,6 @@
 {
   "contributors": ["cw00dw0rd"],
-  "message": "simple.",
-  "label": "This avocado has already signed the CLA! Thanks again for your contribution!",
-  "recheckComment": "The avocado-loving overlords have requested a I re-evaluate this PR."
+  "message": "message",
+  "label": "label",
+  "recheckComment": "recheck"
 }

@@ -1,6 +1,6 @@
 
 {
-  "message": "Unsigned CLA",
-  "label": "cla signed",
-  "recheckComment": "The cla bot has been summoned"
+  "message": "signed",
+  "label": "unsigned",
+  "recheckComment": "recheck"
 }

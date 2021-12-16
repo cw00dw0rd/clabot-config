@@ -1,7 +1,6 @@
 
 {
-  "messageMissingEmail": "Unable to determine if you have signed CLA",
   "message": "Unsigned CLA",
-  "label": "cla-signed",
-  "recheckComment": "The cla-bot has been summoned, and re-checked this pull request!"
+  "label": "cla signed",
+  "recheckComment": "The cla bot has been summoned"
 }

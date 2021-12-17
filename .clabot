@@ -1,5 +1,6 @@
 
 {
+  "contributors": ["cw00dw0rd"],
   "message": "signed",
   "label": "unsigned",
   "recheckComment": "recheck"
